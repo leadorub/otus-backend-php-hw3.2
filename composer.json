@@ -1,0 +1,17 @@
+{
+    "name": "ai/otus-backend-php-hw3.2",
+    "description": "Homework 3.2",
+    "type": "test",
+    "authors": [
+        {
+            "name": "Aleksey Ivanov",
+            "email": "ai@proto.uz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AI\\backend_php_hw3_2\\": "src/AI"
+        }
+    }
+}
